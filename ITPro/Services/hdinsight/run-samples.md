@@ -65,8 +65,12 @@ In this article, you learned how to run the samples included with the HDInsight 
 
 * [Tutorial: Simple recommendation engine using Apache Mahout][mahout-hdi]
 
+* [HDInsight Service How-to Videos on Channel9][hdvids]
+
+
 [mapreduce]: /en-us/manage/services/hdinsight/using-mapreduce-with-hdinsight/
 [hive]: /en-us/manage/services/hdinsight/using-hive-with-hdinsight/
 [pig]: /en-us/manage/services/hdinsight/using-pig-with-hdinsight/
 [mahout-hdi]: /en-us/manage/services/hdinsight/recommendation-engine-using-mahout/
 [twitter-hdi]: /en-us/manage/services/hdinsight/analyzing-twitter-data-with-hive/
+[hdvids]: http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service
