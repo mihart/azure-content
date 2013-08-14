@@ -4,7 +4,19 @@
 
 # Getting Started with Windows Azure HDInsight Service
 
-This tutorial gets you started using Windows Azure HDInsight Service. HDInsight Service makes [Apache Hadoop](http://hadoop.apache.org/) available as a service in the cloud. It makes the HDFS/MapReduce software framework available in a simpler, more scalable, and cost efficient Windows Azure environment. In particular, HDInsight simplifies the configuring, running, and post-processing of Hadoop jobs by providing JavaScript and Hive interactive consoles. The JavaScript console is unique to HDInsight and handles Pig Latin as well as JavaScript and Hadoop file system commands. HDInsight also provides a cost efficient approach to the managing and storing of data. HDInsight Service uses Windows Azure Blob Storage as the default file system. 
+<div class="dev-onpage-video-clear clearfix">
+<div class="dev-onpage-left-content">
+<p>This tutorial gets you started using Windows Azure HDInsight Service. HDInsight Service makes [Apache Hadoop](http://hadoop.apache.org/) available as a service in the cloud. It makes the HDFS/MapReduce software framework available in a simpler, more scalable, and cost efficient Windows Azure environment. In particular, HDInsight simplifies the configuring, running, and post-processing of Hadoop jobs by providing JavaScript and Hive interactive consoles. The JavaScript console is unique to HDInsight and handles Pig Latin as well as JavaScript and Hadoop file system commands. HDInsight also provides a cost efficient approach to the managing and storing of data. HDInsight Service uses Windows Azure Blob Storage as the default file system. </p>
+<p>These samples are intended to get you started quickly learning and to give you an extensible testing bed to work through concepts. They provide you an easy way to create data sets of various sizes and allow running samples over the various sizes so you may observe the effects of data size on jobs as you get to learn your cluster.</p>
+</div>
+<div class="dev-onpage-video-wrapper"><a href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Getting-Started-with-Windows-Azure-Service-Series-Overview" class="label">watch the tutorial</a> <a style="background-image: url('/media/itpro/services/videos/hdinsight-hero-180x120.png') !important;" href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Getting-Started-with-Windows-Azure-Service-Series-Overview" target="_blank" class="dev-onpage-video"><span class="icon">Play Video</span></a> <span class="time">1:01</span></div>
+</div>
+
+
+
+
+
+
 
 
 ##In this Article
@@ -22,7 +34,7 @@ This tutorial gets you started using Windows Azure HDInsight Service. HDInsight 
 
 To complete this tutorial, you need a Windows Azure account that has the Windows Azure HDInsight feature enabled , and you need to have Excel 2010 or 2013 installed.
 
-- To create a free Windows Azure trial account in just a couple of minutes, see [Windows Azure Free Trial](/en-us/pricing/free-trial/ "Windows Azure Free Trial"). 
+- To create a free Windows Azure trial account in just a couple of minutes, visit [Windows Azure Free Trial](/en-us/pricing/free-trial/ "Windows Azure Free Trial"). For help creating an account, [watch the video](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account/ "Watch the video").
 
 - To enable the Windows Azure HDInsight preview, see <a href="/en-us/develop/net/tutorials/create-a-windows-azure-account/#enable" target="_blank">Enable Windows Azure preview features</a>
 
@@ -42,7 +54,7 @@ The HDInsight provision process requires a Windows Azure Storage account to be u
 
 
 ##<a name="provision"></a>Provision an HDInsight Service Cluster
-You can use the Windows Azure Management portal to create and configure a new Hadoop Cluster. 
+You can use the Windows Azure Management portal to create and configure a new Hadoop Cluster. Follow the instructions below or [watch this video](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-cluster-with-Windows-Azure-HDInsight-Service-video "Watch the video").
 
 1. Sign in to the [Management Portal](https://manage.windowsazure.com/). 
 
@@ -191,6 +203,7 @@ In this tutorial, you have learned how to provision a cluster with the HDInsight
 - For information about running more samples, see [How to Run Samples](/en-us/manage/services/hdinsight/howto-run-samples/).
 - For other uses of HDInsight Service interactive JavaScript and Hive consoles, see the [HDInsight Interactive JavaScript and Hive Consoles](/en-us/manage/services/hdinsight/interactive-javascript-and-hive-consoles/).
 - For more information of MapReduce, see [Using MapReduce with HDInsight](/en-us/manage/services/hdinsight/using-mapreduce-with-hdinsight/).
+- To watch HDInsight Service How-to videos, visit [our video series on Channel9](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service).
 - For more information of Hive, see [Using Hive with HDInsight](/en-us/manage/services/hdinsight/using-hive-with-hdinsight/).
 - For more information of Pig, see [Using Pig with HDInsight](/en-us/manage/services/hdinsight/using-pig-with-hdinsight/).
 
