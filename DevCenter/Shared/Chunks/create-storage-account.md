@@ -1,5 +1,5 @@
 To use storage operations, you need a Windows Azure storage account. You 
-can create a storage account by following these steps. (You can also
+can create a storage account by following the steps below or by [watching this How-to video](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Add-data-storage-to-a-Windows-Azure-account-video). (You can also
 create a storage account [using the REST API].)
 
 1.  Log into the [Windows Azure Management Portal].
