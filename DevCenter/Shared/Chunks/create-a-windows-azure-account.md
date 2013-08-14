@@ -3,11 +3,13 @@
 In order to deploy applications to Windows Azure, you need an account. This article describes how to create a free trial account and how to enable Windows Azure preview features, including BizTalk Services, HDInsight, and Windows Azure Back, for the account.
 
 ## Create a Windows Azure account
+Follow the instructions below, or watch [this video](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account). 
 
 1.  Open a web browser and browse to <a href="http://www.windowsazure.com">http://www.windowsazure.com</a>
 2.  To get started with a free account, navigate to the [Windows Azure Free Trial](/en-us/pricing/free-trial/) page and follow the steps to create your trial account. You'll need a credit card number and a mobile phone number for proof of identity, but you will not be billed.
 
 <h2><a id="enable"></a>Enable Windows Azure preview features</h2>
+Follow the instructions below, or watch [this video](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Enable-a-Windows-Azure-Preview-Feature-video).
 
 1.  Navigate to [https://account.windowsazure.com/](https://account.windowsazure.com/) and sign in with your Windows Azure account.
 2.  Click **preview features** to view the available previews.<br />
