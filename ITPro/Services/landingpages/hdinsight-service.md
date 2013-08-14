@@ -65,7 +65,13 @@ This video takes you through the steps to create a Windows Azure free trial acco
 Windows Azure makes many features available in Preview mode.... before they become permanent features.
  
 
-### [Create a Windows Azure Account](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account)
-This video takes you through the steps to create a Windows Azure free trial account.
-### [Create a Windows Azure Account](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account)
-This video takes you through the steps to create a Windows Azure free trial account.  
+### [Add Data Storage to a Windows Azure Account](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Add-data-storage-to-a-Windows-Azure-account-video)
+After you have created a Windows Azure account, you can add a storage account. There are many reasons to create a Windows Azure storage account.  One reason is to save the expense of transferring data up to the cloud and back.
+
+### [Create a Cluster with Windows Azure HDInsight Service](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-cluster-with-Windows-Azure-HDInsight-Service-video)
+Windows Azure HDInsight Services makes creating a cluster fast and easy.  In just a few minutes you'll have your cluster up and running.
+
+### [Develop and Run Hadoop Streaming MapReduce Jobs on Windows Azure HDInsight Service](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Develop-and-Run-Hadoop-Streaming-MapReduce-jobs-on-Windows-Azure-HDInsight-Service)
+Most MapReduce jobs are written in Java.  The streaming API allows you to write and run MapReduce jobs using languages other than Java.
+
+
