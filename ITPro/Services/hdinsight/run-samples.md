@@ -11,6 +11,9 @@
 <p>These samples are intended to get you started quickly learning and to give you an extensible testing bed to work through concepts. They provide you an easy way to create data sets of various sizes and allow running samples over the various sizes so you may observe the effects of data size on jobs as you get to learn your cluster.</p>
 </div>
 <div class="dev-onpage-video-wrapper"><a href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Creating-your-first-HDInsight-cluster-and-run-samples" class="label">watch the tutorial</a> <a style="background-image: url('/media/itpro/services/videos/hdinsight-hero-180x120.png') !important;" href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Creating-your-first-HDInsight-cluster-and-run-samples" target="_blank" class="dev-onpage-video"><span class="icon">Play Video</span></a> <span class="time">7:51</span></div>
+
+</div>
+<div class="dev-onpage-video-wrapper"><a href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Develop-and-Run-Hadoop-Streaming-MapReduce-jobs-on-Windows-Azure-HDInsight-Service" class="label">Using the C# Streaming sample</a> <a style="background-image: url('/media/itpro/services/videos/hdinsight-hero-180x120.png') !important;" href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Develop-and-Run-Hadoop-Streaming-MapReduce-jobs-on-Windows-Azure-HDInsight-Service" target="_blank" class="dev-onpage-video"><span class="icon">Play Video</span></a> <span class="time">5:24</span></div>
 </div>
 
 **What These Samples Are Not**
