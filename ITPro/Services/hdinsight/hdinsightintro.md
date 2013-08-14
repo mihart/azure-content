@@ -120,3 +120,12 @@ The HDInsight Service (and Hadoop technologies in general) are most suitable for
 * [HDFS](http://hadoop.apache.org/docs/r0.18.1/hdfs_design.html) - Hadoop Distributed File System (HDFS) is the primary storage system used by Hadoop applications.		
 
 * [Map Reduce](http://mapreduce.org/) - A programming model and software framework for writing applications that rapidly process vast amounts of data in parallel on large clusters of compute nodes.	
+
+##<a name="nextsteps"></a>Next steps
+
+
+- To learn how to use HDInsight Service, see our [Online Documentation](http://www.windowsazure.com/en-us/documentation/services/hdinsight/).
+- To watch How-to videos about HDInsight Service, visit [Channel9](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service).
+
+
+[jar-syntax]: http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html#jar
