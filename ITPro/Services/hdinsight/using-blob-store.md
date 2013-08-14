@@ -6,16 +6,26 @@
 
 
 
+<div class="dev-onpage-video-clear clearfix">
+<div class="dev-onpage-left-content">
+<p>Windows Azure HDInsight Service supports both Hadoop Distributed Files System (HDFS) and Azure Storage Vault (ASV) for storing data. Windows Azure Blob Storage is a robust, general purpose Windows Azure storage solution. ASV provides a full featured HDFS file system interface for Blob Storage that provides a seamless experience to customers by enabling the full set of components in the Hadoop ecosystem to operate (by default) directly on the data managed by Blog Storage. Blob Storage is not just a low cost solution. Storing data in Blob Storage enables the HDInsight clusters used for computation to be safely deleted without losing user data. 
+</p>
 
-Windows Azure HDInsight Service supports both Hadoop Distributed Files System (HDFS) and Azure Storage Vault (ASV) for storing data. Windows Azure Blob Storage is a robust, general purpose Windows Azure storage solution. ASV provides a full featured HDFS file system interface for Blob Storage that provides a seamless experience to customers by enabling the full set of components in the Hadoop ecosystem to operate (by default) directly on the data managed by Blog Storage. Blob Storage is not just a low cost solution. Storing data in Blob Storage enables the HDInsight clusters used for computation to be safely deleted without losing user data. 
+</div>
+<div class="dev-onpage-video-wrapper"><a href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Add-data-storage-to-a-Windows-Azure-account-video" class="label">watch the tutorial</a> <a style="background-image: url('/media/itpro/services/videos/hdinsight-hero-180x120.png') !important;" href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Add-data-storage-to-a-Windows-Azure-account-video" target="_blank" class="dev-onpage-video"><span class="icon">Play Video</span></a> <span class="time">2:46</span></div>
+</div>
+
+
+
+
 
 <div class="dev-callout"> 
 <b>Note</b> 
 <p>Most HDFS commands such as ls, copyFromLocal, mkdir etc. will still work as expected. Only the commands that are specific to the native HDFS implementation (which is referred to as DFS) such as fschk and dfsadmin will show different behavior on ASV.</p> 
 </div>
 
-To enable the Windows Azure HDInsight Service preview, click [here](https://account.windowsazure.com/PreviewFeatures).
-
+To enable the Windows Azure HDInsight Service preview, click [here](https://account.windowsazure.com/PreviewFeatures). For help 
+enabling the preview, click [here] (/en-us/develop/net/tutorials/create-a-windows-azure-account/#enabl). 
 ##In this Article
 
 * [The HDInsight service storage architecture](#architecture)
@@ -228,9 +238,11 @@ Now you understand how to use Windows Azure Blob Storage. To learn more, see the
 * [Using Pig with HDInsight][pig]
 * [Using Hive with HDInsight][hive]
 * [Using MapReduce with HDInsight][mapreduce]
+* [HDInsight How-to videos on Channel9] [hdivids]
 
 
 [upload-data]: /en-us/manage/services/hdinsight/howto-upload-data-to-hdinsight/
 [pig]: /en-us/manage/services/hdinsight/using-pig-with-hdinsight/
 [hive]: /en-us/manage/services/hdinsight/using-hive-with-hdinsight/
 [mapreduce]: /en-us/manage/services/hdinsight/using-mapreduce-with-hdinsight/
+[hdivids]: http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service
