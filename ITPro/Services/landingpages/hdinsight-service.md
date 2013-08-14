@@ -43,3 +43,29 @@ JGao to comment on title/abstract
 
 ### [How to: upload data to HDInsight](./howto-upload-hdinsight)
 JGao to comment on title/abstract
+
+## Videos
+### [Introduction to Windows Azure HDInsight Service - Part 1](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Introduction-To-Windows-Azure-HDInsight-Service)
+General introduction to  Big Data, Hadoop, and Windows Azure HDInsight.  Part 1. 
+
+### [Introduction to Windows Azure HDInsight Service - Part 2](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Introduction-to-Windows-Azure-HDInsight-Service-continued)
+General introduction to  Big Data, Hadoop, and Windows Azure HDInsight.  Part 2. 
+
+### [Creating your first cluster and running samples](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Creating-your-first-HDInsight-cluster-and-run-samples)
+walks you through the simple steps of signing up for Windows Azure HDInsight preview, creating your first cluster, and running two Map Reduce samples.
+
+### [Series Overview: Getting Started with Windows Azure HDInsight](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Getting-Started-with-Windows-Azure-Service-Series-Overview)
+Getting started with HDInsight involves 4 quick tasks. This video introduces the series of 4 videos.
+
+### [Create a Windows Azure Account](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account)
+This video takes you through the steps to create a Windows Azure free trial account.  
+
+
+### [Enable a Windows Azure Preview Feature](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Enable-a-Windows-Azure-Preview-Feature-video)
+Windows Azure makes many features available in Preview mode.... before they become permanent features.
+ 
+
+### [Create a Windows Azure Account](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account)
+This video takes you through the steps to create a Windows Azure free trial account.
+### [Create a Windows Azure Account](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account)
+This video takes you through the steps to create a Windows Azure free trial account.  
