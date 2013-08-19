@@ -38,6 +38,7 @@ To complete this tutorial, you need a Windows Azure account that has the Windows
 <p>While the HDInsight Service is available as part of a Windows Azure Trial subscription, a trial subscription places limits on the amount of compute and storage resources available to you. For more information, see the <a href="http://www.windowsazure.com/en-us/pricing/free-trial/">Windows Azure Free Trial</a> page.</p> 
 </div>
 
-
+<p><b>
+Up Next (Create a Windows Azure Storage account) > </b></p>
 
 [jar-syntax]: http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html#jar
