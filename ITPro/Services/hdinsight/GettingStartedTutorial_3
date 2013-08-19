@@ -7,7 +7,7 @@
 <div class="dev-onpage-video-clear clearfix">
 <div class="dev-onpage-left-content">
 <p><b>
-< Previous (Create a Windows Azure Storage Account)  |  Next (Use the HDInsight Service dashboard and sample gallery) > ,/b></p>
+< Previous </b>[Create a Windows Azure Storage Account](en-us/manage/services/hdinsight/GettingStartedTutorial_2/)  |  <b>Next </b>[Use the HDInsight Service dashboard and sample gallery](en-us/manage/services/hdinsight/GettingStartedTutorial_4/) > </p>
 </div>
 <div class="dev-onpage-video-wrapper"><a href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account" class="label">watch the tutorial</a> <a style="background-image: url('/media/itpro/services/videos/hdinsight-hero-180x120.png') !important;" href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account" target="_blank" class="dev-onpage-video"><span class="icon">Play Video</span></a> <span class="time">xxx</span></div>
 </div>
