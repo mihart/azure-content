@@ -39,6 +39,6 @@ To complete this tutorial, you need a Windows Azure account that has the Windows
 </div>
 
 <p><b>
-Up Next [GettingStartedTutorial_2](Create a Windows Azure Storage account) > </b></p>
+Up Next</b> [Create a Windows Azure Storage account](/en-us/manage/services/hdinsight/GettingStartedTutorial_2) > </p>
 
 [jar-syntax]: http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html#jar
