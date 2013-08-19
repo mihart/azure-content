@@ -27,7 +27,7 @@
 
 ##<a name="subscribe"></a>Enable the HDInsight Service
 
-To complete this tutorial, you need a Windows Azure account that has the Windows Azure HDInsight feature enabled , and you need to have Excel 2010 or 2013 installed.
+To complete this tutorial, you need a Windows Azure account that has the Windows Azure HDInsight feature enabled, and you need to have Excel 2010 or 2013 installed.
 
 - To create a free Windows Azure trial account in just a couple of minutes, visit [Windows Azure Free Trial](/en-us/pricing/free-trial/ "Windows Azure Free Trial"). For help creating an account, [watch the video](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account/ "Watch the video").
 
@@ -39,6 +39,6 @@ To complete this tutorial, you need a Windows Azure account that has the Windows
 </div>
 
 <p><b>
-Up Next (Create a Windows Azure Storage account) > </b></p>
+Up Next [GettingStartedTutorial_2](Create a Windows Azure Storage account) > </b></p>
 
 [jar-syntax]: http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html#jar
