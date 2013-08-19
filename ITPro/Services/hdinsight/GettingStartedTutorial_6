@@ -7,7 +7,7 @@
 <div class="dev-onpage-video-clear clearfix">
 <div class="dev-onpage-left-content">
 <p><b>
-< Previous (Run a sample MapReduce program from the sample gallery)  |  Next (•Connect to Microsoft Business Intelligence Tools) > </b></p>
+< Previous (Run a sample MapReduce program from the sample gallery)  |  Next (Connect to Microsoft Business Intelligence Tools) > </b></p>
 </div>
 <div class="dev-onpage-video-wrapper"><a href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account" class="label">watch the tutorial</a> <a style="background-image: url('/media/itpro/services/videos/hdinsight-hero-180x120.png') !important;" href="http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service/Create-a-Windows-Azure-Account" target="_blank" class="dev-onpage-video"><span class="icon">Play Video</span></a> <span class="time">xxx</span></div>
 </div>
@@ -33,43 +33,7 @@ You can use the JavaScript Interactive Console to view the output from the WordC
 
 	![HDI.Hero.ReadWordCount](../media/HDI.Hero.ReadWordCounts.PNG "Read Wordcounts")
 	
-##<a name="dataexplorer"></a>Connecting to Microsoft Business Intelligence Tools 
 
-The Data Explorer can be used to export results from HDInsight into Microsoft Business Intelligence (BI) tools such as Excel. You must have Excel 2010 or 2013 installed to complete this part of the tutorial. Here we will import the default Hive table that ships in HDInsight.
-
-1. Download the Data Explorer from from the [Microsoft Download Center](http://www.microsoft.com/en-us/download/details.aspx?id=36803) and install it.
-
-2. Open up Excel, select the **Data Explorer** tab, select the **From Other Sources** option, and then From Windows Azure item.
-
-	![HDI.Hero.DataExplorerImportHdiData](../media/HDI.Hero.DataExplorerImportHdiData.png "Import Data")
-
-3. Enter the name of the Azure Blob Storage Account associated with your cluster and click **OK**.
-
-	![HDI.Hero.DataExplorer.HdiStore](../media/HDI.Hero.DataExplorer.HdiStore.PNG "Store Name")
-
-4. Enter the account key for the Azure Blob Storage Account in the Access Windows Azure HDInsight wizard and click **Save**. If you need to retrieve your key, return to the Windows Azure Portal, select your storage account, and click on the Manage Access Key icon on the bottom of the page. Click on the copy icon  to the right of the primary key and paste the value into the wizard.
-
-	![HDI.Hero.DataExplorer.StorageAccessKey](../media/HDI.Hero.DataExplorer.StorageAccessKey.PNG "Storage Access Key")
-
-5. In the **Query Editor**, select your cluster in the Navigator and then find and select the default HiveSampleData.txt file and click **Done**.
-
-	![HDI.Hero.DataExplorer.HiveTable](../media/HDI.Hero.DataExplorer.HiveTable.png "Hive Table")
-
-6. The query then imports the Hive Table into Excel.
-
-	![HDI.Hero.DataExplorer.HiveTableImported](../media/HDI.HiveOdbc.ExcelHiveTable.PNG "Hive Table Imported")
-
-
-##<a name="nextsteps"></a>Next steps
-In this tutorial, you have learned how to provision a cluster with the HDInsight Service, run a MapReduce job on it, and use the Interactive Console to view the output from the job.
-
-
-- For information about running more samples, see [How to Run Samples](/en-us/manage/services/hdinsight/howto-run-samples/).
-- For other uses of HDInsight Service interactive JavaScript and Hive consoles, see the [HDInsight Interactive JavaScript and Hive Consoles](/en-us/manage/services/hdinsight/interactive-javascript-and-hive-consoles/).
-- For more information of MapReduce, see [Using MapReduce with HDInsight](/en-us/manage/services/hdinsight/using-mapreduce-with-hdinsight/).
-- To watch HDInsight Service How-to videos, visit [our video series on Channel9](http://channel9.msdn.com/Series/Getting-started-with-Windows-Azure-HDInsight-Service).
-- For more information of Hive, see [Using Hive with HDInsight](/en-us/manage/services/hdinsight/using-hive-with-hdinsight/).
-- For more information of Pig, see [Using Pig with HDInsight](/en-us/manage/services/hdinsight/using-pig-with-hdinsight/).
 
 [jar-syntax]: http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html#jar
 
